@@ -1,5 +1,5 @@
 <h3>HTML과 CSS로 제작한 태극기</h3>
-![image](https://user-images.githubusercontent.com/70964988/161949655-b3007a63-df1e-4753-9efd-aefb9342d790.png)
+![image](https://user-images.githubusercontent.com/70964988/161949913-d6aca5cb-de39-4a41-b427-c2102d3f04ec.png)
 
 
 
