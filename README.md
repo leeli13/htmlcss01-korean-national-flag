@@ -4,7 +4,6 @@
 
 
 태극기 규격 출처 : [행정안전부] https://www.mois.go.kr/chd/sub/a05/birth/screen.do
-![image](https://user-images.githubusercontent.com/70964988/161949160-8c876624-db2d-43b9-9814-ec1379b6e409.png)
 
 
 
